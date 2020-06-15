@@ -2,10 +2,10 @@
 
 Recuerden ejecutar npm install para las librerías.
 ```
-npm intall
+>npm intall
 ```
 
 ### Ejemplo:
 ```
-node app -d "San Salvador"
+>node app -d "San Salvador"
 ```
